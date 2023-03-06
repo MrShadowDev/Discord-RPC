@@ -27,8 +27,6 @@ Discord--RPC is better than other Discord RPC because it doesn't require Discord
 
 ### FAQ
 
-![image](https://user-images.githubusercontent.com/75091300/199565394-1577deab-8035-4d7b-b02e-d863e6638e3f.png)
-
 - **Q: Where can I find the installation steps?**
 - A: [Installation](https://github.com/MrShadowDev/Discord-RPC/wiki/Installation)
 
